@@ -1,2 +1,2 @@
-# MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence
-SQL - Tableau integration projects for Data Analytics and Business Intelligence
+# MySQL-for-Data-Analytics-and-Business-Intelligence
+SQL - projects for Data Analytics and Business Intelligence
